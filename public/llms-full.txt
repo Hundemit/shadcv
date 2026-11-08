@@ -1,0 +1,10 @@
+# ShadCV
+
+Portable React resume and Next.js website.
+
+- Source and integration instructions: https://github.com/Hundemit/shadcv
+- Product website: https://shadcv.de/
+- Official personal demo: https://demo.shadcv.de/
+- English demo: https://demo.shadcv.de/?lang=en
+
+The resume is served at /. Replace Jan Hindemit’s demo data, portrait, legal notice and PDFs before publishing your own resume.
